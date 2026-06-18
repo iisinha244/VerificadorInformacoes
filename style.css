@@ -3,3 +3,18 @@ margin: 0;
 pading: 0;
 }
 
+.cabecalho{
+padding: 15px 25px;
+
+
+}
+  
+.cartao{
+width: 260px;
+height: 200;
+}
+
+.cartao-imagem{
+width: 100;
+
+}
