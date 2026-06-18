@@ -1,8 +1,14 @@
 *{
 margin: 0;
-pading: 0;
+padding: 0;
 }
+body{
+display: flex;
+flex-direction: column;
+min-height: 100vh;
 
+
+}
 .cabecalho{
 padding: 15px 25px;
 
