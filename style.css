@@ -50,5 +50,5 @@ backface-visibility: hidden;
 
 .cartao-verso{
 
-    transform: rotateY(100deg);
+    transform: rotateY(180deg);
 }
